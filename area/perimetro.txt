@@ -1,0 +1,1 @@
+El PRIMETRO es la sumatoria de los lados de una figura geometrica plana.
